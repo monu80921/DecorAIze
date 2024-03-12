@@ -1,0 +1,149 @@
+[
+    {
+      "id": "example_1",
+      "instruction": "Gray bedroom with king bed",
+      "response": "A bedroom designed with soothing gray walls, complemented by a spacious king-size bed for optimal comfort and style."
+    },
+    {
+      "id": "example_2",
+      "instruction": "Earthy living room with sofa",
+      "response": "A living space adorned in warm earthy tones, featuring a cozy sofa that invites relaxation and warmth into the room."
+    },
+    {
+      "id": "example_3",
+      "instruction": "White kitchen with marble counters",
+      "response": "A pristine kitchen setup with sleek white cabinetry, beautifully paired with elegant marble countertops for a luxurious finish."
+    },
+    {
+      "id": "example_4",
+      "instruction": "Sunny home office with standing desk",
+      "response": "An inviting home office bathed in natural light, equipped with a modern standing desk to enhance productivity and comfort."
+    },
+    {
+      "id": "example_5",
+      "instruction": "Farmhouse dining room with big table",
+      "response": "A charming dining area embracing a farmhouse aesthetic, centered around a large wooden table that anchors the space with rustic elegance."
+    },
+    {
+      "id": "example_6",
+      "instruction": "Pastel bedroom with canopy bed",
+      "response": "A serene bedroom palette of soft pastels, featuring a majestic canopy bed as the focal point for a touch of sophistication."
+    },
+    {
+      "id": "example_7",
+      "instruction": "Minimalist living room with sectional",
+      "response": "A living room boasting a minimalist design ethos, highlighted by a plush sectional sofa that melds comfort with sleek aesthetics."
+    },
+    {
+      "id": "example_8",
+      "instruction": "Modern kitchen with stainless appliances",
+      "response": "A contemporary kitchen setup, featuring state-of-the-art stainless steel appliances and a chic subway tile backsplash for a touch of urban elegance."
+    },
+    {
+      "id": "example_9",
+      "instruction": "Colorful office with bookshelf",
+      "response": "A lively home office space, energized by a vibrant accent wall and complemented with a standing bookshelf for organization and flair."
+    },
+    {
+      "id": "example_10",
+      "instruction": "Dining room with chandelier and chairs",
+      "response": "An elegant dining setup illuminated by a sophisticated chandelier, with luxuriously upholstered chairs rounding off the look."
+    },
+    {
+        "id": "example_11",
+        "instruction": "Cozy reading nook with armchair",
+        "response": "A snug reading corner featuring a comfortable armchair, perfect for long reading sessions and relaxation."
+    },
+    {
+        "id": "example_12",
+        "instruction": "Vintage bathroom with clawfoot tub",
+        "response": "An elegantly aged bathroom boasting a classic clawfoot tub, offering a timeless appeal and luxurious baths."
+    },
+    {
+        "id": "example_13",
+        "instruction": "Rustic kitchen with wooden beams",
+        "response": "A kitchen that radiates rustic charm, highlighted by exposed wooden beams and natural materials for a warm ambiance."
+    },
+    {
+        "id": "example_14",
+        "instruction": "Modern apartment balcony with plants",
+        "response": "A contemporary balcony adorned with lush plants, creating a green oasis in the midst of the urban environment."
+    },
+    {
+        "id": "example_15",
+        "instruction": "Art deco living room with mirror",
+        "response": "A living room that showcases the art deco style with geometric patterns and a striking decorative mirror as the centerpiece."
+    },
+    {
+        "id": "example_16",
+        "instruction": "Bohemian bedroom with tapestry",
+        "response": "A bedroom that embraces bohemian aesthetics, featuring a colorful tapestry that adds texture and vibrancy to the space."
+    },
+    {
+        "id": "example_17",
+        "instruction": "Industrial loft with exposed brick",
+        "response": "A loft that epitomizes industrial design, with exposed brick walls and metal fixtures for a raw, edgy look."
+    },
+    {
+        "id": "example_18",
+        "instruction": "Minimalist bathroom with walk-in shower",
+        "response": "A bathroom adopting minimalist design, equipped with a sleek walk-in shower for a clean and uncluttered space."
+    },
+    {
+        "id": "example_19",
+        "instruction": "Luxurious foyer with spiral staircase",
+        "response": "An opulent entryway featuring a majestic spiral staircase, setting the tone for a lavish and welcoming home."
+    },
+    {
+        "id": "example_20",
+        "instruction": "Scandinavian dining area with pendant lighting",
+        "response": "A dining area inspired by Scandinavian design, with simple pendant lighting and a focus on functionality and simplicity."
+    },
+    {
+        "id": "example_21",
+        "instruction": "Eclectic studio apartment with gallery wall",
+        "response": "A studio apartment that celebrates eclectic style, with a gallery wall displaying an array of art and personal mementos."
+    },
+    {
+        "id": "example_22",
+        "instruction": "Traditional study with oak bookcase",
+        "response": "A study room that exudes tradition, with a sturdy oak bookcase filled with literature, creating an intellectual retreat."
+    },
+    {
+        "id": "example_23",
+        "instruction": "Contemporary patio with fire pit",
+        "response": "A contemporary patio designed for evenings outdoors, featuring a modern fire pit as the gathering point for warmth and conversation."
+    },
+    {
+        "id": "example_24",
+        "instruction": "French country kitchen with island",
+        "response": "A kitchen that brings French country charm, centered around a functional island for cooking and casual dining."
+    },
+    {
+        "id": "example_25",
+        "instruction": "Zen garden with koi pond",
+        "response": "A peaceful zen garden, complete with a serene koi pond, offering a tranquil escape and connection with nature."
+    },
+    {
+        "id": "example_26",
+        "instruction": "Gothic-inspired library with fireplace",
+        "response": "A library inspired by gothic architecture, featuring a cozy fireplace and dark, ornate details for a mysterious ambiance."
+    },
+    {
+        "id": "example_27",
+        "instruction": "Mid-century modern office with ergonomic setup",
+        "response": "An office that channels mid-century modern design, paired with an ergonomic setup for a stylish yet comfortable workspace."
+    },
+    {
+        "id": "example_28",
+        "instruction": "Nautical-themed bathroom with porthole mirror",
+        "response": "A bathroom with a nautical theme, highlighted by a porthole mirror and maritime decorations for a coastal vibe."
+    },
+    {
+        "id": "example_29",
+        "instruction": "Tropical balcony with hammock",
+        "response": "A balcony that captures tropical bliss, featuring a hammock for lounging and enjoying the breeze amid lush greenery."
+    }
+
+  ]
+  
